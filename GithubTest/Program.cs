@@ -7,6 +7,8 @@ namespace GithubTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // dette er en kommentar
             Console.WriteLine("Hej");
         }
     }
